@@ -10,7 +10,7 @@ this extension is little handy help when you are trying to make apps that works 
 
 ## Screen Shots
 
-![](README/IMG_979BFDFB3BBD-1.jpeg =250x)
+<img src="README/IMG_979BFDFB3BBD-1.jpeg" width="150">
 
 ## Methods
 ```swift
